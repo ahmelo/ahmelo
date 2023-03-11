@@ -14,16 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm André Melo</h1>
+
 <h3 align="center">I'm a technology enthusiast and I believe the future is now.</h3>
 
-- 🌱 I’m currently learning data analysis. **Python, numpy, pandas.**
+- 🌱 I’m currently learning data analysis: **Python, numpy, pandas.**
+  - https://www.datascienceacademy.com.br/ ==> 'Fundamentos de Linguagem Python Para Análise de Dados e Data Science' (in progress)
+  - https://www.freecodecamp.org/ ==> 'Data Analysis with Python'  (in progress)
+  - https://www.freecodecamp.org/ ==> 'Scientific Computing with Python' (done: 02/2023)
 
-- 💬 Ask me about **project management, agile, scrum**
+- 💬 Ask me about **project management, agile, scrum, python, data analysis**
 
-- 📫 How to reach me **andrehenriquemelo@gmail.com**
+- 📫 How to reach me: **andrehenriquemelo@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmelo/](https://www.linkedin.com/in/ahmelo/)
+- 📄 Know about my experiences:
+  -  [https://www.linkedin.com/in/ahmelo/](https://www.linkedin.com/in/ahmelo/)
+  -  [https://www.freecodecamp.org/ahmelo](https://www.freecodecamp.org/ahmelo)
+  -  [https://replit.com/@ahmelo](https://replit.com/@ahmelo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
