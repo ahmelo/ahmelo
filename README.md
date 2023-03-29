@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning data analysis: **Python, numpy, pandas.**
   - https://www.datascienceacademy.com.br/ ==> 'Fundamentos de Linguagem Python Para Análise de Dados e Data Science' (in progress)
-  - https://www.freecodecamp.org/ ==> 'Data Analysis with Python'  (in progress)
+  - https://www.freecodecamp.org/ ==> 'Data Analysis with Python'  (done: 03/2023)
   - https://www.freecodecamp.org/ ==> 'Scientific Computing with Python' (done: 02/2023)
 
 - 💬 Ask me about **project management, agile, scrum, python, data analysis**
